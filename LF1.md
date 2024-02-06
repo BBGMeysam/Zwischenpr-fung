@@ -148,3 +148,8 @@
 		- CPU Last: sehr wenig
 ### Raid 5
 
+
+#Sali
+
+##Ardakan Güle
+
