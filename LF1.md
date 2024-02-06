@@ -129,7 +129,7 @@
 		berritstellt
 
 # Raid 
-![[images/proxy-image.png]]
+
 ### Raid 0
 		Striping Mindestens 2 oder Mehr Platten werden zu einer gemcht daurch
 		wird:
