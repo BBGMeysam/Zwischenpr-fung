@@ -149,7 +149,3 @@
 ### Raid 5
 
 
-#Sali
-
-##Ardakan Güle
-
