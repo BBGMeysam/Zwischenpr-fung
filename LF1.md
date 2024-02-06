@@ -100,8 +100,9 @@
 
 
 ### Kündigungsrecht 
-# <span style="color:red">Marktstrukturen</span>
-![[angebotsoligopol.png]]
+
+## Marktstrukturen
+
 ### Angebotsmonopol
 		Alleinstehendes Angebot was kein andere macht oder hat man kann selber
 		den Markt Reguliern.
