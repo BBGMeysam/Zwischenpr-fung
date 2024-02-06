@@ -1,5 +1,5 @@
 ## Marktstrukturen 
--Angebotsmonopol: 
+##-Angebotsmonopol: 
 Ein einziger Anbieter kontrolliert den gesamten Markt und bestimmt Preis und Menge des Angebots.
 
 ## Polypol:
