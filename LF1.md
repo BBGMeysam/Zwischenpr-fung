@@ -216,8 +216,9 @@
 		     Anbieter		
 			einer 		wenige			viele
 		einer		x		x		nachfragemonopol
-nachfrager	wenige	x		x			Nachfrageoligopol
+nachfrager	wenige		x		x		Nachfrageoligopol
 		viele	Angebotsmonopol	Angebotsoligopol	Polypol
+
 
 
   
