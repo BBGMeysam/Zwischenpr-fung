@@ -128,7 +128,7 @@
 		-Es gibt an einem Ort ein Rechenzentrum diese Rechen und Spicherleistung
 		berritstellt
 
-# Raid 
+## Raid 
 
 ### Raid 0
 		Striping Mindestens 2 oder Mehr Platten werden zu einer gemcht daurch
@@ -147,5 +147,52 @@
 		- Daten Redundanz ist gegeben alle daten dopplet oder mehr daher 100%
 		- CPU Last: sehr wenig
 ### Raid 5
+		- Daten werden über mehrere Festplatten verteilt.
+		- Ein Teil jeder Festplatte wird für Paritätsinformationen verwendet.
+		- Verbesserte Lese- und Schreibleistung durch parallele Datenzugriffe.
+		- Fehlerresistenz: Daten können bei Festplattenausfall durch Paritätsinformationen wiederhergestellt werden.
+		- Effiziente Nutzung der Speicherkapazität, da nur ein Teil für Paritätsinformationen reserviert wird.
+
+  
+# Witschaftsordnungen
+
+## Staatliche Aufgaben
+
+-Gesetze
+-Geldwesen
+-Infrastruktur
+-Bildung
+
+
+### Freie Marktwirtschaft
+
+- Deutschland
+- Angebot und Nachfrage bestimmen Produktion, Preise und Verteilung.
+- Privateigentum und Marktmechanismus sind zentral.
+- Staatliche Interventionen sind begrenzt.
+
+### Soziale Markwirtschaft
+
+- USA
+- Kombiniert freien Markt mit sozialen und staatlichen Maßnahmen.
+- Ziel: Vereinigung von wirtschaftlicher Effizienz und sozialer Gerechtigkeit.
+- Staat reguliert den Markt aktiv, um soziale Sicherheit zu gewährleisten.
+- Wirtschaft funktioniert auf Angebot und Nachfrage aber, zum schutz der wirtschaftlich schwachen greift der Staat ins wirtschaftsleben ein.
+- Subventionen
+
+## Zentralverwaltungswirtschaft
+
+### Planwirtschaft
+
+-Der Staat kontrolliert Produktion und Verteilung zentral z.B. nordkorea)
+
+## Subventionen
+
+- Finanzielle Unterstützung von Regierungen oder Institutionen
+- Zweck: Förderung spezifischer Wirtschaftsbereiche oder Aktivitäten
+- Formen: Direkte Zahlungen, Steuervergünstigungen, verbilligte Kredite
+- Ziele: Wirtschaftliches Wachstum, Beschäftigung, Umweltschutz, soziale Gerechtigkeit
+- Regulierung und Überwachung durch Regierungen
+
 
 
