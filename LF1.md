@@ -232,5 +232,7 @@ Nachfrage /oligo /pol	-> wenige N. + viele A
 
 Poly /pol 		-> viele A. + viele N.
 
+
+
 Preisbildung 
 -> A-Monopol -> A. legt preis fest
