@@ -212,12 +212,14 @@
 	Mono = einer
  	oligo = wenige
   	poly = viele
+   
 
 		     Anbieter		
 			einer 		wenige			viele
 		einer		x		x		nachfragemonopol
 nachfrager	wenige		x		x		Nachfrageoligopol
 		viele	Angebotsmonopol	Angebotsoligopol	Polypol
+
 
 
 
