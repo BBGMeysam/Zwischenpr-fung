@@ -221,7 +221,7 @@ nachfrager	wenige	x		x			Nachfrageoligopol
 
 
   
-Angbeots /mono /pol 	-> ein A. + viele N. -> Angebotsmonopol	
+Angbeots /mono /pol 	-> ein A. + viele N.	
 
 Nachfrage /mono /pol	-> einen N. + viele A.
 
