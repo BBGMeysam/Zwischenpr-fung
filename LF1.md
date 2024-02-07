@@ -177,7 +177,7 @@
 - Kombiniert freien Markt mit sozialen und staatlichen Maßnahmen.
 - Ziel: Vereinigung von wirtschaftlicher Effizienz und sozialer Gerechtigkeit.
 - Staat reguliert den Markt aktiv, um soziale Sicherheit zu gewährleisten.
-- Wirtschaft funktioniert auf Angebot und Nachfrage aber, zum schutz der wirtschaftlich schwachen greift der Staat ins wirtschaftsleben ein.
+- Wirtschaft funktioniert auf Anbieter und Nachfrage aber, zum schutz der wirtschaftlich schwachen greift der Staat ins wirtschaftsleben ein.
 - Subventionen
 
 ## Zentralverwaltungswirtschaft
@@ -202,5 +202,30 @@
 - Ziele: Wirtschaftliches Wachstum, Beschäftigung, Umweltschutz, soziale Gerechtigkeit
 - Regulierung und Überwachung durch Regierungen
 
+# Marktformen
+
+	Arten von Märkten abhängig von der Anzahl der Martkteilnehmer
+	-> Anbieter und Nachfrage
+
+ Begriffe: pol (Polis) = Markt
+
+	Mono = einer
+ 	oligo = wenige
+  	poly = viele
+
+		     Anbieter		
+			einer 		wenige			viele
+		einer		x		x		nachfragemonopol
+nachfrager	wenige	x		x			Nachfrageoligopol
+		viele	Angebotsmonopol	Angebotsoligopol	Polypol
 
 
+  
+Angbeots /mono /pol 	-> ein A. + viele N. -> Angebotsmonopol	
+Nachfrage /mono /pol	-> einen N. + viele A.
+Angebots /oligo /pol 	-> wenige A. + viele N
+Nachfrage /oligo /pol	-> wenige N. + viele A
+Poly /pol 		-> viele A. + viele N.
+
+Preisbildung 
+-> A-Monopol -> A. legt preis fest
