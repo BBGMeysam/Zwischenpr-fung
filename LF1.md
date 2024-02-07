@@ -222,9 +222,13 @@ nachfrager	wenige	x		x			Nachfrageoligopol
 
   
 Angbeots /mono /pol 	-> ein A. + viele N. -> Angebotsmonopol	
+
 Nachfrage /mono /pol	-> einen N. + viele A.
+
 Angebots /oligo /pol 	-> wenige A. + viele N
+
 Nachfrage /oligo /pol	-> wenige N. + viele A
+
 Poly /pol 		-> viele A. + viele N.
 
 Preisbildung 
