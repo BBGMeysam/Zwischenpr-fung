@@ -184,9 +184,17 @@
 
 ### Planwirtschaft
 
--Der Staat kontrolliert Produktion und Verteilung zentral z.B. nordkorea)
+- Staatliche Planung und Lenkung der Produktion, Verteilung und Preise von Gütern und Dienstleistungen
+- Privateigentum an Produktionsmitteln kann eingeschränkt oder abgeschafft sein
+- Ziel: Erfüllung gesellschaftlicher Bedürfnisse gemäß staatlicher Vorgaben
 
-## Subventionen
+  #### 5 Jahres Plan
+  
+  Ein 5-Jahres-Plan ist ein langfristiger strategischer Fahrplan zur Erreichung bestimmter Ziele.
+  Er beschreibt, wo Sie jetzt stehen, welche Ziele Sie haben und wie Sie diese erreichen wollen.
+
+
+## Subventionen (gehört zu Sozialen MW)
 
 - Finanzielle Unterstützung von Regierungen oder Institutionen
 - Zweck: Förderung spezifischer Wirtschaftsbereiche oder Aktivitäten
