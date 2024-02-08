@@ -1,4 +1,4 @@
-1### GmbH
+### GmbH
 
 		 Ist eine  "Gesellschaft mit beschränkter Haftung" 
 		 Merkmale:
