@@ -1,4 +1,4 @@
-### GmbH
+1### GmbH
 
 		 Ist eine  "Gesellschaft mit beschränkter Haftung" 
 		 Merkmale:
@@ -228,3 +228,7 @@ Poly /pol 		-> viele A. + viele N.
 
 Preisbildung 
 -> A-Monopol -> A. legt preis fest
+
+
+
+###Yarrak
