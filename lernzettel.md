@@ -244,17 +244,17 @@ Der Hauptunterschied liegt darin, dass "ökologisch" die Umwelt betrifft, währe
 
 Klare Befehlsstrukturen, langsame Anpassung, effiziente Entscheidungen.
 
--
+
 ## Flache Organisation:
 
 Schnelle Entscheidungen, hohe Mitarbeiterbeteiligung, mögliche Verwirrung über Verantwortlichkeiten.
 
--
+
 ## Matrixorganisation:
 
 Effiziente Ressourcennutzung, Komplexität, interdisziplinäre Zusammenarbeit.
 
--
+
 ## Mehrlinienorganisation: 
 
 Mitarbeiter haben mehrere Vorgesetzte in verschiedenen Abteilungen. Bietet Spezialisierung und Flexibilität, aber birgt Konflikte und Koordinationsprobleme.
