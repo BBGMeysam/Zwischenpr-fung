@@ -258,3 +258,17 @@ Effiziente Ressourcennutzung, Komplexität, interdisziplinäre Zusammenarbeit.
 ## Mehrlinienorganisation: 
 
 Mitarbeiter haben mehrere Vorgesetzte in verschiedenen Abteilungen. Bietet Spezialisierung und Flexibilität, aber birgt Konflikte und Koordinationsprobleme.
+
+# Systeme
+
+## UEFI
+UEFI ist eine moderne Firmware-Schnittstelle, die das traditionelle BIOS auf Computern ersetzt. Es bietet eine grafische Benutzeroberfläche, erweiterte Funktionen wie Secure Boot und Unterstützung für moderne Hardware.
+
+Verbesserungen gegenüber dem BIOS:
+
+-64 BIT  Prozessorren Kompatiblität
+-Größere  Festplattenkapazität
+-GUI (Graphische Oberfläche)
+## BIOS
+
+Das Basic Input/Output System (BIOS) ist eine grundlegende Software-Schnittstelle zwischen der Hardware und dem Betriebssystem eines Computers. Es initialisiert und testet die Hardwarekomponenten während des Startvorgangs und ermöglicht den Zugriff auf grundlegende Systemfunktionen.
