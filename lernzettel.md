@@ -229,5 +229,11 @@ Poly /pol 		-> viele A. + viele N.
 Preisbildung 
 -> A-Monopol -> A. legt preis fest
 
+# Unterschied Ökologisch / Ökonomisch
 
+"Ökologisch" bezieht sich auf die Umwelt und Naturschutz.
+
+"Ökonomisch" bezieht sich auf wirtschaftliche Aspekte und Ressourcenmanagement.
+
+Der Hauptunterschied liegt darin, dass "ökologisch" die Umwelt betrifft, während "ökonomisch" die Wirtschaft betrifft.
 
