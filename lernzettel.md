@@ -240,21 +240,21 @@ Der Hauptunterschied liegt darin, dass "ökologisch" die Umwelt betrifft, währe
 
 # Organisationsformen
 
-Hierarchische Organisation:
+## Hierarchische Organisation:
 
 Klare Befehlsstrukturen, langsame Anpassung, effiziente Entscheidungen.
--
 
-Flache Organisation:
+-
+## Flache Organisation:
 
 Schnelle Entscheidungen, hohe Mitarbeiterbeteiligung, mögliche Verwirrung über Verantwortlichkeiten.
--
 
-Matrixorganisation:
+-
+## Matrixorganisation:
 
 Effiziente Ressourcennutzung, Komplexität, interdisziplinäre Zusammenarbeit.
--
 
-Mehrlinienorganisation: 
+-
+## Mehrlinienorganisation: 
 
 Mitarbeiter haben mehrere Vorgesetzte in verschiedenen Abteilungen. Bietet Spezialisierung und Flexibilität, aber birgt Konflikte und Koordinationsprobleme.
