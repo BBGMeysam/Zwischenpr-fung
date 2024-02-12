@@ -272,3 +272,11 @@ Verbesserungen gegenüber dem BIOS:
 ## BIOS
 
 Das Basic Input/Output System (BIOS) ist eine grundlegende Software-Schnittstelle zwischen der Hardware und dem Betriebssystem eines Computers. Es initialisiert und testet die Hardwarekomponenten während des Startvorgangs und ermöglicht den Zugriff auf grundlegende Systemfunktionen.
+
+# V-Lan
+
+## Bedeutung
+Ein VLAN ist ein virtuelles Netzwerk, das Geräte in einem physischen Netzwerk logisch gruppiert, um die Netzwerkressourcen effizienter zu nutzen und die Netzwerkkonfiguration flexibler zu gestalten.
+
+## V-Lan Trunking
+VLAN Trunking ist die Technik, mit der VLAN-Informationen über ein einzelnes Netzwerkkabel übertragen werden können. Dabei wird das Netzwerkkabel als Trunk bezeichnet. VLAN Trunking ermöglicht es, mehrere VLANs über dasselbe physische Netzwerksegment zu übertragen, was die Effizienz erhöht und die Netzwerkkonfiguration vereinfacht, da weniger physische Verbindungen benötigt werden. Diese Technik wird häufig in Switches und Routern eingesetzt, um VLAN-Tags zu interpretieren und den Datenverkehr zwischen VLANs zu verwalten.
