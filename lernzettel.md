@@ -280,3 +280,15 @@ Ein VLAN ist ein virtuelles Netzwerk, das Geräte in einem physischen Netzwerk l
 
 ## V-Lan Trunking
 VLAN Trunking ist die Technik, mit der VLAN-Informationen über ein einzelnes Netzwerkkabel übertragen werden können. Dabei wird das Netzwerkkabel als Trunk bezeichnet. VLAN Trunking ermöglicht es, mehrere VLANs über dasselbe physische Netzwerksegment zu übertragen, was die Effizienz erhöht und die Netzwerkkonfiguration vereinfacht, da weniger physische Verbindungen benötigt werden. Diese Technik wird häufig in Switches und Routern eingesetzt, um VLAN-Tags zu interpretieren und den Datenverkehr zwischen VLANs zu verwalten.
+
+# S.M.A.R.T
+
+Spezifisch (Specific): Ziele sollten klar und präzise formuliert sein, ohne Raum für Interpretation oder Missverständnisse zu lassen. Sie sollten genau angeben, was erreicht werden soll.
+
+Messbar (Measurable): Ziele sollten quantifizierbare Kriterien enthalten, anhand derer der Fortschritt gemessen und der Erfolg beurteilt werden kann. Es sollte klar sein, wie der Erfolg des Ziels bewertet wird.
+
+Erreichbar (Achievable): Ziele sollten herausfordernd sein, aber dennoch erreichbar und realistisch innerhalb der gegebenen Ressourcen und Zeitrahmen. Es ist wichtig sicherzustellen, dass die Ziele motivierend und machbar sind.
+
+Relevant (Relevant): Ziele sollten für die Gesamtstrategie oder das langfristige Ziel relevant sein. Sie sollten dazu beitragen, das übergeordnete Ziel zu erreichen und einen echten Mehrwert zu bieten.
+
+Zeitgebunden (Time-bound): Ziele sollten einen klaren Zeitrahmen oder ein Enddatum haben, bis zu dem sie erreicht werden sollen. Dies hilft dabei, den Fokus zu behalten, den Fortschritt zu verfolgen und die Motivation aufrechtzuerhalten.
