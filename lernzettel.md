@@ -297,3 +297,20 @@ Ziele sollten für die Gesamtstrategie oder das langfristige Ziel relevant sein.
 
 ### Zeitgebunden (Time-bound): 
 Ziele sollten einen klaren Zeitrahmen oder ein Enddatum haben, bis zu dem sie erreicht werden sollen. Dies hilft dabei, den Fokus zu behalten, den Fortschritt zu verfolgen und die Motivation aufrechtzuerhalten.
+
+## SWOT-Analyse
+
+## SWOT-Analyse: Bewertung von Stärken, Schwächen, Chancen und Bedrohungen
+
+### Stärken (Strengths): 
+Interne positive Aspekte oder Ressourcen
+
+### Schwächen (Weaknesses): 
+Interne negative Aspekte oder Begrenzungen
+
+### Chancen (Opportunities): 
+Externe Möglichkeiten oder positive Trends
+
+### Bedrohungen (Threats): Externe Risiken oder negative Einflüsse
+
+Hilft bei der Bewertung der aktuellen Situation und bei der Identifizierung von strategischen Entscheidungen
