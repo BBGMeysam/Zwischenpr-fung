@@ -360,6 +360,26 @@ Hilft bei der Bewertung der aktuellen Situation und bei der Identifizierung von 
 -Datenschutz bezieht sich auf den Schutz personenbezogener Daten vor unbefugter Verarbeitung oder Nutzung.
 
 
+# Informationssicherheit
 
+## Vertraulichkeit: 
+
+Schutz von Informationen vor unbefugtem Zugriff oder Offenlegung durch autorisierte Personen.
+
+## Integrität: 
+
+Sicherstellung, dass Daten korrekt und unverändert bleiben, sowohl während der Speicherung als auch der Übertragung.
+
+## Verfügbarkeit: 
+
+Gewährleistung, dass Informationen und Systeme jederzeit verfügbar sind, wenn sie benötigt werden, und Schutz vor Ausfällen oder Unterbrechungen.
+
+## Authentifizierung: 
+
+Überprüfung der Identität von Benutzern oder Systemen, um sicherzustellen, dass nur autorisierte Personen oder Geräte auf Ressourcen zugreifen können.
+
+## Autorisierung: 
+
+Festlegung von Zugriffsrechten und -berechtigungen für Benutzer oder Systeme basierend auf deren Rollen oder Verantwortlichkeiten.
 
 
