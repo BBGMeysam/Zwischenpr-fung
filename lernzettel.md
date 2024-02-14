@@ -430,6 +430,22 @@ Zusätzliche Funktionen: Neben den Standardgruppenrichtlinien können Administra
 Insgesamt bieten Gruppenrichtlinien eine leistungsstarke Methode zur Verwaltung von Windows-basierten Netzwerken, indem sie eine konsistente und zentralisierte Kontrolle über die Systemkonfigurationen ermöglichen.
 
 
+# Lastenheft und Pflichtenheft
 
+## Lastenheft (Requirements Specification):
+
+Beschreibt die Anforderungen und Bedürfnisse des Kunden oder Auftraggebers.
+Enthält Informationen darüber, was das zu entwickelnde Produkt leisten soll und welche Funktionen es haben muss.
+Fokus auf den funktionalen und nicht-funktionalen Anforderungen aus Sicht des Kunden.
+Wird oft in einer weniger detaillierten und technischen Sprache verfasst, um für Kunden verständlich zu sein.
+-
+## Pflichtenheft (Functional Specification):
+
+Beschreibt die technischen Details und Spezifikationen des zu entwickelnden Produkts.
+Basierend auf den Anforderungen im Lastenheft, aber detaillierter und spezifischer in Bezug auf die Umsetzung.
+Enthält technische Details wie Systemarchitektur, Datenmodelle, Schnittstellen, Algorithmen usw.
+Fokus auf den internen technischen Anforderungen aus Sicht der Entwickler.
+Dient als Grundlage für die tatsächliche Entwicklung des Produkts und ermöglicht es den Entwicklern, die Anforderungen in konkrete Funktionalitäten umzusetzen.
+Zusammenfassend gesagt: Das Lastenheft beschreibt, was das Produkt leisten soll, während das Pflichtenheft beschreibt, wie das Produkt diese Anforderungen erfüllen wird.
 
 
