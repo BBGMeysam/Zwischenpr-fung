@@ -447,6 +447,7 @@ Basierend auf den Anforderungen im Lastenheft, aber detaillierter und spezifisch
 Enthält technische Details wie Systemarchitektur, Datenmodelle, Schnittstellen, Algorithmen usw.
 Fokus auf den internen technischen Anforderungen aus Sicht der Entwickler.
 Dient als Grundlage für die tatsächliche Entwicklung des Produkts und ermöglicht es den Entwicklern, die Anforderungen in konkrete Funktionalitäten umzusetzen.
-Zusammenfassend gesagt: Das Lastenheft beschreibt, was das Produkt leisten soll, während das Pflichtenheft beschreibt, wie das Produkt diese Anforderungen erfüllen wird.
+
+### Zusammenfassend gesagt: Das Lastenheft beschreibt, was das Produkt leisten soll, während das Pflichtenheft beschreibt, wie das Produkt diese Anforderungen erfüllen wird.
 
 
