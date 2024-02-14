@@ -383,3 +383,15 @@ Gewährleistung, dass Informationen und Systeme jederzeit verfügbar sind, wenn 
 Festlegung von Zugriffsrechten und -berechtigungen für Benutzer oder Systeme basierend auf deren Rollen oder Verantwortlichkeiten.
 
 
+# Arten von Konzerne
+
+## Horizontale Konzerne
+= Zusammenschluss von Unternehmen auf der gleichen Produktionsstufe
+(Bsp.: Brauerreien)
+
+## Vertikale Konzerne
+= Zusammenschluss von Unternehmen aus vorgelagerten oder nach- gelagerten Produktionsstufen
+(Bsp.: Erzgrube – Stahlwerk – Stahlhändler)
+
+## Anorganische Konzerne
+= Zusammenschluss von Unternehmen aus verschiedenen Wirtschafts-zweigen (Bsp.: Nestlé)
