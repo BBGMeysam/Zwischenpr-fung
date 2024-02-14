@@ -395,3 +395,17 @@ Festlegung von Zugriffsrechten und -berechtigungen für Benutzer oder Systeme ba
 
 ## Anorganische Konzerne
 = Zusammenschluss von Unternehmen aus verschiedenen Wirtschafts-zweigen (Bsp.: Nestlé)
+
+# Projektmodelle
+
+## Wasserfallmodell:
+
+Lineare Abfolge von Phasen: Anforderungsanalyse, Planung, Umsetzung, Test, Bereitstellung, Wartung.
+Jede Phase muss abgeschlossen sein, bevor die nächste beginnt.
+Gut geeignet für Projekte mit klaren Anforderungen und festen Terminen.
+
+## Agile Methoden (z. B. Scrum, Kanban):
+Iterative und inkrementelle Vorgehensweise.
+Arbeit wird in kurzen Zeitrahmen ("Sprints") organisiert.
+Flexibilität und Anpassungsfähigkeit gegenüber sich ändernden Anforderungen.
+Kontinuierliche Lieferung von funktionsfähiger Software.
