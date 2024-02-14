@@ -345,6 +345,19 @@ Hilft bei der Bewertung der aktuellen Situation und bei der Identifizierung von 
 -Hohe Geldstrafen bei Verstößen (bis zu 4% des weltweiten Jahresumsatzes oder 20 Mio. Euro, je nachdem, welcher Betrag höher ist)
 
 
+# Unterschied zwischen Datenschutz und Datensicherheit
+
+-Datensicherheit bezieht sich auf den Schutz von Daten vor Verlust, Beschädigung oder unbefugtem Zugriff.
+
+-Datensicherheit konzentriert sich auf technische und organisatorische Maßnahmen, um die Integrität, Vertraulichkeit und Verfügbarkeit von Daten zu gewährleisten.
+
+-----------------------
+
+-Datenschutz betrifft die rechtliche und ethische Seite des Umgangs mit Daten. 
+
+-Datenschutz regelt, welche Daten gesammelt, verarbeitet und gespeichert werden dürfen, während Datensicherheit sicherstellt, dass diese Daten vor Bedrohungen geschützt sind.
+
+-Datenschutz bezieht sich auf den Schutz personenbezogener Daten vor unbefugter Verarbeitung oder Nutzung.
 
 
 
