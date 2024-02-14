@@ -438,7 +438,8 @@ Beschreibt die Anforderungen und Bedürfnisse des Kunden oder Auftraggebers.
 Enthält Informationen darüber, was das zu entwickelnde Produkt leisten soll und welche Funktionen es haben muss.
 Fokus auf den funktionalen und nicht-funktionalen Anforderungen aus Sicht des Kunden.
 Wird oft in einer weniger detaillierten und technischen Sprache verfasst, um für Kunden verständlich zu sein.
--
+
+
 ## Pflichtenheft (Functional Specification):
 
 Beschreibt die technischen Details und Spezifikationen des zu entwickelnden Produkts.
