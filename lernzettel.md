@@ -330,6 +330,23 @@ Hilft bei der Bewertung der aktuellen Situation und bei der Identifizierung von 
 -Förderung der Sicherheit im digitalen Raum
 
 
+# DSGVO (Datenschutz Grundverordnung)
+
+-EU-weite Datenschutzregulierung
+
+-Schutz personenbezogener Daten
+
+-Einheitliche Regeln für den Datenschutz in der EU
+
+-Stärkere Rechte für Einzelpersonen (z.B. Recht auf Auskunft, Löschung, Berichtigung)
+
+-Verpflichtungen für Unternehmen und Organisationen (z.B. Datenschutz-Compliance, Datenschutzbeauftragte)
+
+-Hohe Geldstrafen bei Verstößen (bis zu 4% des weltweiten Jahresumsatzes oder 20 Mio. Euro, je nachdem, welcher Betrag höher ist)
+
+
+
+
 
 
 
