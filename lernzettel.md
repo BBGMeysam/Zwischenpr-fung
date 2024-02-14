@@ -312,3 +312,5 @@ Externe Möglichkeiten oder positive Trends
 ### Bedrohungen (Threats): Externe Risiken oder negative Einflüsse
 
 Hilft bei der Bewertung der aktuellen Situation und bei der Identifizierung von strategischen Entscheidungen
+
+# 
