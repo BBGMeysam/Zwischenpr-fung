@@ -313,4 +313,23 @@ Externe Möglichkeiten oder positive Trends
 
 Hilft bei der Bewertung der aktuellen Situation und bei der Identifizierung von strategischen Entscheidungen
 
-# 
+# BSI
+
+-Bundesamt für Sicherheit in der Informationstechnik (BSI)
+
+-Zuständig für IT-Sicherheit in Deutschland
+
+-Beratung von Regierung, Behörden und Unternehmen
+
+-Entwicklung von Sicherheitsstandards und -richtlinien
+
+-Analyse von Bedrohungen und Sicherheitslücken
+
+-Zusammenarbeit mit nationalen und internationalen Organisationen
+
+-Förderung der Sicherheit im digitalen Raum
+
+
+
+
+
