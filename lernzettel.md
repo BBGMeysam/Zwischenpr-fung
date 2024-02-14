@@ -409,3 +409,27 @@ Iterative und inkrementelle Vorgehensweise.
 Arbeit wird in kurzen Zeitrahmen ("Sprints") organisiert.
 Flexibilität und Anpassungsfähigkeit gegenüber sich ändernden Anforderungen.
 Kontinuierliche Lieferung von funktionsfähiger Software.
+
+
+# Gruppenrichtlinien
+
+Gruppenrichtlinien, auch bekannt als Gruppenrichtlinienobjekte (Group Policy Objects, GPOs), sind ein Feature von Microsoft Windows-basierten Betriebssystemen. Hier sind einige wichtige Punkte zu Gruppenrichtlinien:
+
+Zentralisierte Verwaltung: Gruppenrichtlinien ermöglichen die zentrale Verwaltung von Einstellungen und Konfigurationen für Benutzer und Computer in einem Netzwerk.
+
+Anwendung von Richtlinien: Administratoren können Richtlinien erstellen und auf Benutzergruppen, Computergruppen oder einzelne Benutzer und Computer anwenden.
+
+Systemweit gültige Einstellungen: Mit Gruppenrichtlinien können Administratoren verschiedene Einstellungen wie Sicherheitseinstellungen, Desktop-Konfigurationen, Softwareinstallationen, Netzwerkeinstellungen und vieles mehr auf Systemebene festlegen.
+
+Organisationsrichtlinien: Unternehmen können Gruppenrichtlinien verwenden, um die Einhaltung von Unternehmensrichtlinien und Sicherheitsstandards sicherzustellen und die IT-Verwaltung zu vereinfachen.
+
+Flexibilität und Priorität: Gruppenrichtlinien bieten Flexibilität bei der Konfiguration und Priorisierung von Richtlinien. Administratoren können Richtlinien vererben, überschreiben oder ausschließen, um sicherzustellen, dass die gewünschten Konfigurationen angewendet werden.
+
+Zusätzliche Funktionen: Neben den Standardgruppenrichtlinien können Administratoren auch administrative Vorlagen verwenden, um die Konfiguration weiter anzupassen und spezifische Anforderungen zu erfüllen.
+
+Insgesamt bieten Gruppenrichtlinien eine leistungsstarke Methode zur Verwaltung von Windows-basierten Netzwerken, indem sie eine konsistente und zentralisierte Kontrolle über die Systemkonfigurationen ermöglichen.
+
+
+
+
+
