@@ -450,4 +450,22 @@ Dient als Grundlage für die tatsächliche Entwicklung des Produkts und ermögli
 
 ### Zusammenfassend gesagt: Das Lastenheft beschreibt, was das Produkt leisten soll, während das Pflichtenheft beschreibt, wie das Produkt diese Anforderungen erfüllen wird.
 
+# Härtung
 
+## Software
+
+
+Die Härtung eines Betriebssystems beinhaltet Maßnahmen zur Stärkung der Sicherheit, darunter:
+
+-Regelmäßige Aktualisierungen und Patches
+-Beschränkung von Benutzerrechten
+-Firewall-Konfiguration
+-Installation von Antivirensoftware
+-Verschlüsselung sensitiver Daten
+
+## Hardware
+
+-Physische Sicherheit
+-Sichere BIOS/UEFI-Einstellungen
+-Hardware-Prüfungen und Integritätsüberwachung
+-Nutzung von Trusted Platform Module (TPM)
