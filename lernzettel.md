@@ -152,7 +152,13 @@
 		- Verbesserte Lese- und Schreibleistung durch parallele Datenzugriffe.
 		- Fehlerresistenz: Daten können bei Festplattenausfall durch Paritätsinformationen wiederhergestellt werden.
 		- Effiziente Nutzung der Speicherkapazität, da nur ein Teil für Paritätsinformationen reserviert wird.
-
+  		-Berechnung der Netto Speicherkapazität (Anzahl der Festplatten - 1 * kleinste Kapazität einer Festplatte) 
+### Raid 5
+		-RAID 6 ist eine RAID-Variante mit doppelter Parität.
+		-Schutz gegen den Ausfall von zwei Festplatten gleichzeitig.
+		-Höhere Datensicherheit und Fehlertoleranz im Vergleich zu RAID 5.
+		-Effizientere Speicherausnutzung im Vergleich zu RAID 1 oder RAID 10.
+		-Möglicherweise etwas niedrigere Schreib- und Leseleistung aufgrund des zusätzlichen Paritätsberechnungsaufwands.
   
 # Witschaftsordnungen
 
