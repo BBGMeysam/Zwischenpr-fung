@@ -481,3 +481,31 @@ Verwendung von Objekten mit Daten und Methoden zur Problemmodellierung.
 
 ## Funktionales Programmieren: 
 Auswertung von mathematischen Funktionen; Vermeidung von mutable Daten.
+
+# Clients
+## All-in-One-Gerät:
+
+-Computer und Monitor sind in einem einzigen Gerät integriert.
+
+-Platzsparend und einfach einzurichten, oft für Büros oder den Heimgebrauch.
+
+
+## Thin Client:
+
+-Leichtgewichtiger Computer, der sich auf die Verbindung zu einem zentralen Server verlässt.
+
+-Günstige Alternative für Unternehmen, die Server-basierte Computing-Ressourcen nutzen.
+
+
+## Desktop-Computer:
+
+-Kompletter Computer in einem separaten Gehäuse mit Monitor, Tastatur und Maus.
+
+-Leistungsstark und anpassbar, ideal für verschiedene Anwendungen von Gaming bis zu Büroaufgaben.
+
+
+## Notebook:
+
+-Tragbarer Computer mit allen Komponenten in einem einzigen Gehäuse.
+
+-Mobil und vielseitig einsetzbar, gut für Arbeit unterwegs oder auf Reisen
