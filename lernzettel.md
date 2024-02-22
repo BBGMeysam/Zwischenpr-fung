@@ -469,3 +469,15 @@ Die Härtung eines Betriebssystems beinhaltet Maßnahmen zur Stärkung der Siche
 -Sichere BIOS/UEFI-Einstellungen
 -Hardware-Prüfungen und Integritätsüberwachung
 -Nutzung von Trusted Platform Module (TPM)
+
+
+# Arten von Programmieren
+
+## Prozedurales Programmieren: 
+Sequenzielle Ausführung von Anweisungen; Betonung von Funktionen/Prozeduren.
+
+## Objektorientiertes Programmieren (OOP): 
+Verwendung von Objekten mit Daten und Methoden zur Problemmodellierung.
+
+## Funktionales Programmieren: 
+Auswertung von mathematischen Funktionen; Vermeidung von mutable Daten.
