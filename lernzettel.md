@@ -1,4 +1,4 @@
-### GmbH
+ ### GmbH
 
 		 Ist eine  "Gesellschaft mit beschränkter Haftung" 
 		 Merkmale:
@@ -353,7 +353,7 @@ Hilft bei der Bewertung der aktuellen Situation und bei der Identifizierung von 
 
 # Unterschied zwischen Datenschutz und Datensicherheit
 
--Datensicherheit bezieht sich auf den Schutz von Daten vor Verlust, Beschädigung oder unbefugtem Zugriff.
+-Datenschutz bezieht sich auf den Schutz von Daten vor Verlust, Beschädigung oder unbefugtem Zugriff.
 
 -Datensicherheit konzentriert sich auf technische und organisatorische Maßnahmen, um die Integrität, Vertraulichkeit und Verfügbarkeit von Daten zu gewährleisten.
 
