@@ -172,14 +172,14 @@
 
 ### Freie Marktwirtschaft
 
-- Deutschland
+- USA
 - Angebot und Nachfrage bestimmen Produktion, Preise und Verteilung.
 - Privateigentum und Marktmechanismus sind zentral.
 - Staatliche Interventionen sind begrenzt.
 
 ### Soziale Markwirtschaft
 
-- USA
+- Deutschland
 - Kombiniert freien Markt mit sozialen und staatlichen Maßnahmen.
 - Ziel: Vereinigung von wirtschaftlicher Effizienz und sozialer Gerechtigkeit.
 - Staat reguliert den Markt aktiv, um soziale Sicherheit zu gewährleisten.
