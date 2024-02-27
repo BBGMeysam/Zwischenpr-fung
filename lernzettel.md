@@ -514,4 +514,7 @@ Auswertung von mathematischen Funktionen; Vermeidung von mutable Daten.
 
 -Tragbarer Computer mit allen Komponenten in einem einzigen Gehäuse.
 
--Mobil und vielseitig einsetzbar, gut für Arbeit unterwegs oder auf Reisen
+-Mobil und vielseitig einsetzba		r, gut für Arbeit unterwegs oder auf Reisen
+
+# stakeholder
+Als Stakeholder [ˈsteɪkhoʊldə] (deutsch „Teilhaber“, Interessensgruppe, Interessensvertreter oder Anspruchsberechtigter) wird eine Person oder Gruppe bezeichnet, die ein berechtigtes Interesse am Verlauf oder Ergebnis eines Prozesses oder Projektes hat.
